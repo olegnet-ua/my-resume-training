@@ -91,6 +91,10 @@ body {
   display: block;
 }
 
+.swiper-container {
+  width: 600px;
+  height: auto;
+}
 .accent-btn {
   background: var(--c-accent);
   font-weight: bold;
